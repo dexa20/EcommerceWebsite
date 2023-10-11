@@ -197,7 +197,7 @@ small{
 }
 
 .testimonial .col-3:hover{
-    transform: translateY(-20px);
+    transform: translateY(-30px);
 }
 
 .fa.fa-quote-left{
